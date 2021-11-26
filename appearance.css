@@ -1,0 +1,39 @@
+.messageSender0 {
+  font-weight: bold;
+  color: rgb(221, 127, 142);
+}
+
+.messageSender1 {
+  font-weight: bold;
+  color: rgb(31, 8, 233);
+  background-color: powderblue;
+ }
+.messageText1 {
+  background-color: powderblue;
+ }
+.textArea {
+  font-weight: bold;
+  border: 2px solid #008CBA;
+  background-color: rgb(247, 240, 245);
+  text-align: justify;
+}
+
+.button {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #008CBA;
+  }
+  
+.button:hover {
+  background-color: #008CBA;
+  color: white;
+}
+.username0{
+  font-weight: bold;
+  border: 2px;
+  color:rgb(221, 127, 142);
+}
+.username1{
+    font-weight: bold;
+    border: 2px;
+    color:rgb(31, 8, 233);
